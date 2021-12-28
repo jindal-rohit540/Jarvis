@@ -10,3 +10,4 @@ This project was built for Python3 and uses the following libraries:
 Speech_Recognition - Library for STT
 boto3 - Library for Amazon Polly
 playsound - Library for sound
+
